@@ -1,12 +1,16 @@
+---
+
 # Hi, I'm Tanvi! 😁
 
 I'm a C++ developer on a mission to solve world problems. I'm currently studying Computer Engineering at San Jose State University. I love solving problems with code and watching the magic unfold. I'm fascinated by data, machine learning, web development, and automation. Always looking to grow my soft and technical skills!
 
 #### Fun Facts ⭐️
 
-👩🏻‍💻 I've won two hackathons and interned as a Software Engineer three times
+👩🏻‍💻 I've won two hackathons and interned as a Software Engineer three times.
 
-🎧 I enjoy exploring new genres of music and love sharing my latest finds
+📸 I specialize in portrait and car photography. Check out my work on Instagram [@mylilbubbleworld](https://www.instagram.com/mylilbubbleworld/)
+
+📱 I create SWE content on Instagram and TikTok. Follow me [@tanvihehee](https://www.instagram.com/tanvihehee/) on Instagram and [@tanvihehee](https://www.tiktok.com/@tanvihehee) on TikTok
 
 #### Follow Me Around the Web!
 <a href="https://devpost.com/sgtanvi">
