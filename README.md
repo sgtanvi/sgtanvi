@@ -1,3 +1,6 @@
+![](https://github.com/sgtanvi/sgtanvi/blob/main/TanviGuttula.jpg)
+
+
 ---
 
 # Hi, I'm Tanvi! 😁
