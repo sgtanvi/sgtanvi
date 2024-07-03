@@ -16,6 +16,11 @@ I'm a C++ developer on a mission to solve world problems. I'm currently studying
 📱 I create SWE content on Instagram and TikTok. Follow me [@tanvihehee](https://www.instagram.com/tanvihehee/) on Instagram and [@tanvihehee](https://www.tiktok.com/@tanvihehee) on TikTok
 
 #### Follow Me Around the Web!
+<a href = "https://www.linkedin.com/in/tanviguttula/">
+  <img
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+</a>
 <a href="https://devpost.com/sgtanvi">
   <img 
        src="https://img.shields.io/badge/devpost-%2300A8E8.svg?style=for-the-badge&logo=devpost&logoColor=white"
