@@ -26,11 +26,6 @@ I'm a C++ developer on a mission to solve world problems. I'm currently studying
        src="https://img.shields.io/badge/devpost-%2300A8E8.svg?style=for-the-badge&logo=devpost&logoColor=white"
    />
 </a>   
-<a href="https://github.com/sgtanvi/sgtanvi">
-  <img 
-       src="https://img.shields.io/badge/github-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"
-   />
-</a>  
 
 ---
 
@@ -59,7 +54,6 @@ I'm a C++ developer on a mission to solve world problems. I'm currently studying
 ## 📊 GitHub Stats:
 
 <div style="display: flex; justify-content: center;">
-    <img src="https://github-stats-vanshb03.vercel.app/api?username=sgtanvi&hide=stars&count_private=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" style="margin-right: 10px;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=sgtanvi&theme=dark&hide_border=true" style="margin-right: 10px;">
 </div>
 
