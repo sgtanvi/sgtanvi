@@ -13,7 +13,7 @@ I'm a C++ developer on a mission to solve world problems. I'm currently studying
 
 📸 I specialize in portrait and car photography. Check out my work on Instagram [@mylilbubbleworld](https://www.instagram.com/mylilbubbleworld/)
 
-📱 I create SWE content on Instagram and TikTok. Follow me [@tanvihehee](https://www.instagram.com/tanvihehee/) on Instagram and [@tanvihehee](https://www.tiktok.com/@tanvihehee) on TikTok
+📱 I create SWE content on TikTok. Follow me [@tanvihehee](https://www.tiktok.com/@tanvihehee) on TikTok
 
 #### Follow Me Around the Web!
 <a href = "https://www.linkedin.com/in/tanviguttula/">
