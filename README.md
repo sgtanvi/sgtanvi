@@ -9,7 +9,7 @@ I'm a C++ developer on a mission to solve world problems. I'm currently studying
 
 #### Fun Facts ⭐️
 
-👩🏻‍💻 I've won two hackathons and interned as a Software Engineer three times.
+👩🏻‍💻 I've won three hackathons and interned as a Software Engineer three times.
 
 📸 I specialize in portrait and car photography. Check out my work on Instagram [@mylilbubbleworld](https://www.instagram.com/mylilbubbleworld/)
 
